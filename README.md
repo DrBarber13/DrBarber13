@@ -21,6 +21,7 @@ I'm a cybersecurity student building practical experience in security operations
 | [SOC Home Lab](https://github.com/DrBarber13/soc-home-lab) | Log ingestion, detection engineering, investigation | Independent project |
 | [TryHackMe Write-ups](https://github.com/DrBarber13/tryhackme-writeups) | Defensive analysis and remediation-focused notes | Independent learning |
 | [PowerShell Automation Scripts](https://github.com/DrBarber13/powershell-automation-scripts) | Safe, documented Windows administration automation | Coursework-derived + independent scripts |
+| [Dark Toggle](https://github.com/DrBarber13/dark-toggle) | Safari web extension, minimal permissions, macOS app packaging and code signing | Independent project |
 
 ## Portfolio highlights
 
@@ -30,6 +31,7 @@ I'm a cybersecurity student building practical experience in security operations
 - Four incident-response reports with timelines, evidence plans, dispositions, and response actions
 - Three SIEM-ready detection specifications with KQL, SPL, test cases, and false-positive analysis
 - Three safety-conscious PowerShell scripts for Windows event review, lab provisioning, and evidence collection
+- A Safari dark mode extension with per-site settings, no data collection, and a signed macOS app wrapper
 - Original defensive learning notes that do not disclose room answers or protected content
 
 ## Education and credentials
